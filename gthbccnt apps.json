@@ -1,0 +1,31 @@
+{
+  "name": "gthbccnt apps",
+  "subtitle": "A source for all of my apps",
+  "description": "Welcome to my source! Here you'll find all of my apps.",
+  "iconURL": "https://i.imgur.com/pqIZoZo.jpeg",
+  "website": "https://altstudio.app",
+  "patreonURL": "https://patreon.com/altstudio",
+  "tintColor": "#7c8a77",
+  "featuredApps": [],
+  "apps": [
+    {
+      "name": "Coffee Journal",
+      "bundleIdentifier": "com.nnpz10uoya.fmp99bis4l",
+      "marketplaceID": "",
+      "developerName": "gthbccnt",
+      "subtitle": "A coffee journal to track beans, logs, recipes ",
+      "localizedDescription": "This is an awesome app only available on AltStore.",
+      "iconURL": "https://i.imgur.com/pNvGc97.png",
+      "tintColor": "#8e7b58",
+      "category": "other",
+      "screenshots": [],
+      "versions": [],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      },
+      "patreon": {}
+    }
+  ],
+  "news": []
+}
