@@ -19,7 +19,18 @@
       "tintColor": "#8e7b58",
       "category": "other",
       "screenshots": ["https://i.imgur.com/iFGVFjV.png"],
-      "versions": [],
+
+      "versions": [
+        {
+          "downloadURL": "https://github.com/gthbccnt/coffeejournal-source/releases/download/1.0/App.ipa",
+          "size": 15900000,
+          "version": "1.0",
+          "buildVersion": null,
+          "date": "2026-03-29T15:14:00+02:00",
+          "localizedDescription": null,
+          "minOSVersion": null
+        }
+      ],
       "appPermissions": {
         "entitlements": [],
         "privacy": {}
